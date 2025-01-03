@@ -1,11 +1,11 @@
 
-# 🛠️ Dotfiles
+# 🔧 Dotfiles
 
 Welcome to my **dotfiles** repository. This repository contains the configuration files (dotfiles) I use to set up and customize my development environment. It helps ensure consistency across my systems and makes onboarding to a new machine seamless. I use  [GNU Stow](https://www.gnu.org/software/stow/) to manage symlinks for configuration management.
 
 ---
 
-## 🔧 What's Included?
+## What's Included?
 
 | Tool/Configuration | Description                                      |
 |---------------------|--------------------------------------------------|

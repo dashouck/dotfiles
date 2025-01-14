@@ -38,6 +38,7 @@ set colorcolumn=80
 set noswapfile
 set nobackup
 set nowritebackup
+set undodir=~/.vim/undodir
 set undofile
 
 " markdown config 
